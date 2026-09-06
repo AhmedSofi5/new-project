@@ -1,4 +1,5 @@
-print("Welcome to my calculator📟")
+
+print("Welcome to my calculator💻")
 
 n1=float(input("enter your number 1 : "))
 opr=input("enter your operation (* , / , - , + , % ,m) : ")
